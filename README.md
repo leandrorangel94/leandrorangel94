@@ -6,7 +6,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrorangel94/)](https://www.linkedin.com/in/leandrorangel94/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrorangel94.lr@gmail.com)](mailto:leandrorangel94.lr@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5537991511760&text=Olá!)](https://api.whatsapp.com/send?phone=5537991511760&text=Olá!)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-BF008C?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leandrorangell)](https://www.instagram.com/_leandrorangell) 
 
 - :seedling: I’m currently learning Node.js, ReactJS and React Native.
 - :books: Systems Information student
