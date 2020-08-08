@@ -1,6 +1,5 @@
 ### Olá, meu nome é Leandro Rangel :wave:
 
-
 ## Sou um estudante de programação!
 
 - :seedling: Atualmente estou estudando: Node.js, ReactJS e React Native.
@@ -26,12 +25,4 @@
 <img align="left" src="https://user-images.githubusercontent.com/39461509/89698061-8cdb7080-d8f5-11ea-8e76-e5ebad21c6b1.png"  width="26"/>
 <img align="left" src="https://user-images.githubusercontent.com/39461509/89698056-8baa4380-d8f5-11ea-85c5-966985ef61e0.png"  width="26"/>
 
-<br />
 ---
-
-<img
-align="left"
-alt="Leandro's Github stats"
-src="https://github-readme-stats.vercel.app/api?username=leandrorangel94&
-show_icons=true&hide_border=true" />
-
