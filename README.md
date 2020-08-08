@@ -28,4 +28,5 @@
 
 ---
 
-[![Leandro's github stats](https://github-readme-stats.vercel.app/api?username=leandrorangel94)](https://github.com/leandrorangel94/github-readme-stats)
+![Leandro's github stats](https://github-readme-stats.vercel.app/api?username=leandrorangel94&hide=contribs,prs)
+
