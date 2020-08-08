@@ -1,6 +1,5 @@
 ### Olá, meu nome é Leandro Rangel :wave:
 
----
 
 ## Sou um estudante de programação!
 
