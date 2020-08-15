@@ -23,10 +23,3 @@
 <code><img align="left" src="https://user-images.githubusercontent.com/39461509/90299490-a2f4ae00-de6c-11ea-998a-f695fee11af3.png" width="25" /></code>
 <code><img align="left" src="https://user-images.githubusercontent.com/39461509/90299512-b43dba80-de6c-11ea-9fd9-d24724dc93b2.png" width="25" /></code>
 <code><img align="left" src="https://user-images.githubusercontent.com/39461509/90299493-a38d4480-de6c-11ea-9b5a-98359d9d83db.png" width="25" /></code>
-
-
-<details>
-  <summary>:zap: GitHub Stats
-
-  <img align="left" alt="Leandro Github Stats" src="github-readme-stats.leandrorangel94.vercel.app/api?username=leandrorangel94&show_icons=true&hide_border=true"/>
-</details>
