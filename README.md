@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leandro Rangel :wave:
 
-- :seedling: Atualmente estou estudando: Typescript, Node.js, ReactJS e React Native.
+- :seedling: Atualmente estou estudando: C#, dotNET, Typescript, Node.js, ReactJS e React Native.
 - :books: Cursando bacharelado em Sistemas de Informação.
 - :sparkles: No tempo livre, gosto de desenhar, tirar fotos, ler e assistir séries/filmes.
 
@@ -17,6 +17,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299489-a25c1780-de6c-11ea-8285-4f51428783b0.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299494-a425db00-de6c-11ea-9962-af493e5280d6.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299495-a425db00-de6c-11ea-87bb-ccbf5f1a88ab.png" width="25" />
+<img align="left" src="https://user-images.githubusercontent.com/39461509/104844906-79bfca00-58b1-11eb-8e97-bfa0fe37c963.png" width="25" />
+<img align="left" src="https://user-images.githubusercontent.com/39461509/104844913-7f1d1480-58b1-11eb-98e8-39add88460b2.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299488-a25c1780-de6c-11ea-93cc-31135f97aafa.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299492-a38d4480-de6c-11ea-80ae-a60ac07e20c6.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299486-a1c38100-de6c-11ea-92ed-e92f20e1a05a.png" width="25" />
