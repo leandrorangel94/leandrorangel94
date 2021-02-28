@@ -1,8 +1,8 @@
 ## Olá, meu nome é Leandro Rangel :wave:
 
-- :seedling: Atualmente estou estudando: C#, dotNET, Typescript, Node.js, ReactJS e React Native.
+- :seedling: Atualmente estou estudando: C# e .Net;
 - :books: Cursando bacharelado em Sistemas de Informação.
-- :sparkles: No tempo livre, gosto de desenhar, tirar fotos, ler e assistir séries/filmes.
+- :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 
 ### Mídias Sociais:
 
