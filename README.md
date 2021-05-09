@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leandro Rangel :wave:
 
-- :seedling: Atualmente estou estudando C# e .Net;
+- :seedling: Atualmente estou estudando C#, .NET Core MVC, .NET Core WebAPI e Angular;
 - :books: Cursando Sistemas de Informação.
 - :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 
@@ -17,9 +17,9 @@
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299489-a25c1780-de6c-11ea-8285-4f51428783b0.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299494-a425db00-de6c-11ea-9962-af493e5280d6.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299495-a425db00-de6c-11ea-87bb-ccbf5f1a88ab.png" width="25" />
+<img align="left" src="https://user-images.githubusercontent.com/39461509/117581059-3fcd3a80-b0d1-11eb-801c-d925961aecea.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/104844906-79bfca00-58b1-11eb-8e97-bfa0fe37c963.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/104844913-7f1d1480-58b1-11eb-98e8-39add88460b2.png" width="25" />
-<img align="left" src="https://user-images.githubusercontent.com/39461509/90299492-a38d4480-de6c-11ea-80ae-a60ac07e20c6.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299486-a1c38100-de6c-11ea-92ed-e92f20e1a05a.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299490-a2f4ae00-de6c-11ea-998a-f695fee11af3.png" width="25" />
 <img align="left" src="https://user-images.githubusercontent.com/39461509/90299512-b43dba80-de6c-11ea-9fd9-d24724dc93b2.png" width="25" />
