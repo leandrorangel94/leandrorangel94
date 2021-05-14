@@ -1,6 +1,6 @@
 ## Olá, meu nome é Leandro Rangel :wave:
 
-- :seedling: Atualmente estou estudando C#, .NET Core MVC, .NET Core WebAPI e Angular;
+- :seedling: Atualmente estou estudando C#, .NET Core e Angular;
 - :books: Cursando Sistemas de Informação.
 - :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 
