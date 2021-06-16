@@ -7,7 +7,7 @@
 </ul>
   
 <div align="center">
-  <a href="https://github.com/leandrorangel94/github-readme-stats">
+  <a href="https://github.com/leandrorangel94/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorangel94&show_icons=true&theme=gotham" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorangel94&layout=compact&theme=gotham" />
   </a>
