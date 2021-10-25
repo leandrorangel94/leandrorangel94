@@ -1,7 +1,7 @@
 <h2 align="center"> Olá, meu nome é Leandro Rangel :wave: </h2>
 
 <ul>
-  <li> :seedling: Atualmente estou estudando C#, .NET Core e Angular;
+  <li> :seedling: Atualmente estou estudando C#, .NET Core Web API, Angular e Flutter;
   <li> :books: Cursando Sistemas de Informação.
   <li> :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 </ul>
