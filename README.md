@@ -1,15 +1,15 @@
 <h2 align="center"> Olá, meu nome é Leandro Rangel :wave: </h2>
 
 <ul>
-  <li> :seedling: Atualmente estou estudando C#, .NET Core Web API, Angular e Flutter;
+  <li> :seedling: Atualmente estou estudando .NET Core Web API, Angular e Flutter;
   <li> :books: Cursando Sistemas de Informação.
   <li> :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 </ul>
   
 <div align="center">
   <a href="https://github.com/leandrorangel94/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrorangel94&show_icons=true&theme=gotham" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorangel94&layout=compact&theme=gotham" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrorangel94&show_icons=true&theme=gotham" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorangel94&layout=compact&theme=gotham" />
   </a>
 </div>
 
