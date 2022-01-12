@@ -18,9 +18,15 @@
   Mídias Sociais: 
 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrorangel94/)](https://www.linkedin.com/in/leandrorangel94/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrorangel94.lr@gmail.com)](mailto:leandrorangel94.lr@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5537991511760&text=Olá!)](https://api.whatsapp.com/send?phone=5537991511760&text=Olá!)
+<p>
+  <a href="https://www.linkedin.com/in/leandrorangel94/">
+    <img src="https://img.shields.io/badge/LinkedIn-3D6098?style=flat&logo=linkedin&labelColor=3D6098" />
+  </a>
+  
+   <a href="mailto:leandrorangel94.lr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white&labelColor=red" />
+  </a>
+</>
 
 
 <h3 align="left"> Linguagens de Programação e Ferramentas: </h3>
