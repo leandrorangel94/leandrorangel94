@@ -5,14 +5,6 @@
   <li> :books: Graduado em Sistemas de Informação pela Faculdade Pitagoras de Divinópolis.
   <li> :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 </ul>
-  
-<div align="center">
-  <a href="https://github.com/leandrorangel94/">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrorangel94&show_icons=true&theme=gotham" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorangel94&layout=compact&theme=gotham" />
-  </a>
-</div>
-
 
 <h3 align="left">
   Mídias Sociais: 
