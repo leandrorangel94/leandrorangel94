@@ -1,7 +1,8 @@
 <h2 align="center"> Olá, meu nome é Leandro Rangel :wave: </h2>
 
 <ul>
-  <li> :seedling: Atualmente estou aprendendo .NET, Angular e Flutter;
+  <li> :man_technologist: Tenho experiência em desenvolvimento com Angular, SCSS, Typescript, C# e .NET;
+  <li> :seedling: Atualmente estou aprendendo e me aprofundando nas tecnologias Angular, ReactJs e Flutter;
   <li> :books: Graduado em Sistemas de Informação pela Faculdade Pitagoras de Divinópolis.
   <li> :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 </ul>
