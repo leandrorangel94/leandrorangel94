@@ -1,5 +1,14 @@
 <h2 align="center"> Olá, meu nome é Leandro Rangel :wave: </h2>
 
+<div align="center">
+  <a href="https://github.com/leandrorangel94/">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandrorangel94&show_icons=true&theme=gotham" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrorangel94&layout=compact&theme=gotham" />
+  </a>
+</div>
+
+---
+
 <ul>
   <li> :man_technologist: Tenho experiência em desenvolvimento com Angular, SCSS, Typescript, C# e .NET;
   <li> :seedling: Atualmente estou aprendendo e me aprofundando nas tecnologias Angular, ReactJs e Flutter;
