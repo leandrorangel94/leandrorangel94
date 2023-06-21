@@ -13,7 +13,7 @@
   <li> :man_technologist: Tenho experiência em desenvolvimento fullstack com:  Angular, SCSS, Typescript, C#, .NET, SQL Server;
   <li> :seedling: Atualmente estou aprendendo e me aprofundando com as tecnologias: Angular e React.js;
   <li> :books: Sou graduado(Bacharel) em Sistemas de Informação pela Faculdade Pitagoras de Divinópolis.
-  <li> :sparkles: No tempo livre gosto de desenhar, tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
+  <li> :sparkles: No tempo livre gosto de desenhar, jogar , tocar contrabaixo, tirar fotos, ler e assistir séries/filmes.
 </ul>
 
 <h3 align="left">
